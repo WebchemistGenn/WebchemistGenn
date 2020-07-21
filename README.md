@@ -1,8 +1,7 @@
 # Webchemist Genn's Profile
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebchemistGenn&hide_langs_below=1)](https://github.com/WebchemistGenn) | [![WebchemistGenn's github stats](https://github-readme-stats.vercel.app/api?username=WebchemistGenn&show_icons=true&hide=["issues"])](https://github.com/WebchemistGenn) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebchemistGenn&hide_langs_below=1)](https://github.com/WebchemistGenn)
+[![WebchemistGenn's github stats](https://github-readme-stats.vercel.app/api?username=WebchemistGenn&show_icons=true&hide=["issues"])](https://github.com/WebchemistGenn)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWebchemistGenn%2Fhit-counter)](https://hits.seeyoufarm.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jhnam88/)](https://www.facebook.com/webchemist.yoon/)
